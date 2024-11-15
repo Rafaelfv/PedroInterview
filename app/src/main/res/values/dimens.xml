@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="progress_top_margin">16dp</dimen>
+    <dimen name="margin_item_category">6dp</dimen>
+    <dimen name="padding">6dp</dimen>
+    <dimen name="margin_top_joke">6dp</dimen>
+    <dimen name="height_item_category">80dp</dimen>
+</resources>
